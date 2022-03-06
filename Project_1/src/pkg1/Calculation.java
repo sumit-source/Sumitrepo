@@ -13,7 +13,7 @@ public class Calculation
     {
     	int b1;
     	b1 = a1-a2;
-    	System.out.println("Substraction Result is " +b1);
+    	System.out.println("Substraction Result is the here " +b1);
     	return b1;
     }
     public int Sum (int x , int y)
